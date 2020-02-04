@@ -1,0 +1,7 @@
+C:\Users\Vladimir\source\repos\ConsoleAppStore\ConsoleAppStore\obj\Debug\ConsoleAppStore.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\ConsoleAppStore\ConsoleAppStore\bin\Debug\ConsoleAppStore.exe.config
+C:\Users\Vladimir\source\repos\ConsoleAppStore\ConsoleAppStore\bin\Debug\ConsoleAppStore.exe
+C:\Users\Vladimir\source\repos\ConsoleAppStore\ConsoleAppStore\bin\Debug\ConsoleAppStore.pdb
+C:\Users\Vladimir\source\repos\ConsoleAppStore\ConsoleAppStore\obj\Debug\ConsoleAppStore.exe
+C:\Users\Vladimir\source\repos\ConsoleAppStore\ConsoleAppStore\obj\Debug\ConsoleAppStore.pdb
+C:\Users\Vladimir\source\repos\ConsoleAppStore\ConsoleAppStore\obj\Debug\ConsoleAppStore.csprojResolveAssemblyReference.cache
